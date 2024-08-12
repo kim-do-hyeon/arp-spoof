@@ -44,8 +44,8 @@ Victim(Sender)은 자신의 스마트폰 혹은 여분의 PC나 노트북으로 
 
 ### 결과
 Hacker(My) IP : 192.168.0.128<br>
-Sneder IP : 192.168.0.142<br>
-Victim IP : 192.168.0.1 (Gateway)<br>
+Sneder IP : 192.168.0.1<br>
+Target IP : 192.168.0.142 (Gateway)<br>
 ![image](https://github.com/user-attachments/assets/3eaf00a6-4e2f-418e-bcc2-18cc6d8fbde3)
 ![image](https://github.com/user-attachments/assets/43951b7d-e2fd-40c8-97c7-7b5e45e60cd8)
 
